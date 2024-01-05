@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "Vadik",
+      "id": 1
+    },
+    {
+      "title": "Welcome party!",
+      "body": "lorem ipsum...",
+      "author": "Sam",
+      "id": 2
+    },
+    {
+      "title": "Web dev top tips",
+      "body": "lorem ipsum...",
+      "author": "Amar",
+      "id": 3
+    },
+    {
+      "title": "React",
+      "body": "Hi from react",
+      "author": "Vadik",
+      "id": 4
+    },
+    {
+      "title": "Bye",
+      "body": "HElol",
+      "author": "Sam",
+      "id": 7
+    },
+    {
+      "title": "Hi this is the newest blog",
+      "body": "Hi this is the newest blog",
+      "author": "Vadik",
+      "id": 8
+    },
+    {
+      "title": "Newest Blog",
+      "body": "Hi I am Vadik",
+      "author": "Vadik",
+      "id": 9
+    }
+  ]
+}
